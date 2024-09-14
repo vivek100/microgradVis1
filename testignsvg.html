@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jointjs/3.4.2/joint.min.js"></script>
+  <style>
+    #paper {
+      width: 800px;
+      height: 600px;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+
+<div id="paper"></div>
+
+<script>
+// Create a JointJS paper (canvas) and graph
+const graph = new joint.dia.Graph();
+const paper = new joint.dia.Paper({
+  el: document.getElementById('paper'),
+  model: graph,
+  width: 800,
+  height: 600,
+  gridSize: 10
+});
+
+// Load SVG content from Graphviz
+joint.util.loadSVG('graph.svg', function(svg) {
+  const svgElement = document.importNode(svg.documentElement, true);
+  document.getElementById('paper').appendChild(svgElement);
+
+  // Manipulate nodes and connections using JointJS
+  const cells = joint.util.toGraphCells(svgElement);  // Convert SVG to graph elements
+  graph.addCells(cells);
+
+  // Enable drag-and-drop with automatic edge adjustment
+  paper.on('cell:pointermove', function(cellView, evt, x, y) {
+    cellView.model.position(x, y);
+  });
+});
+</script>
+
+</body>
+</html>
