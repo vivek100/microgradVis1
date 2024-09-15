@@ -85,6 +85,29 @@ def vis_color(nodes, color):
     else:
         setattr(nodes, '_vis_color', color)
 
+#apply vis to self andchild nodes once
+
+def vis_color_selfandChild(root,color):
+    setattr(root, '_vis_color', color)
+    for child in root._prev:
+         setattr(child, '_vis_color', color)
+
+#new visualization function for loss function
+
+def vis_color_entropy(root,color):
+    # traverse the tree till you get the identifying function in this case its exp
+    nodes, edges = [], []
+    def build(v):
+        if v not in nodes:
+            nodes.append(v)
+            setattr(v, '_vis_color', color)
+            for child in v._prev:
+                if v._op == 'exp':
+                    delattr(v,'_vis_color')
+                    setattr(v, '_vis_color', 'orange')
+                    break
+                build(child)
+    build(root)
 def trace(root):
     # traces the full graph of nodes and edges starting from the root
     nodes, edges = [], []
@@ -155,15 +178,25 @@ def draw_dot(root, format='svg', rankdir='LR', outfile='graph'):
 
         #dot.node(name=str(id(n)), label="data: %.4f\ngrad: %.4f" % (n.data, n.grad), shape='box', style='filled', fillcolor=fillcolor, width='0.1', height='0.1', fontsize='10')
         if n._op:
-            with dot.subgraph(name='cluster4') as intn:
-                    intn.node(name=str(id(n)) + n._op, label=n._op, pos="0,0!", width='0.1', height='0.1', fontsize='10')
-            dot.edge(str(id(n)) + n._op, str(id(n)), minlen='1')
+            if hasattr(n, '_vis_color'):
+                if n._vis_color == 'grey91':
+                    with dot.subgraph(name='cluster2') as intn:
+                            intn.node(name=str(id(n)) + n._op, label=n._op, width='0.1', height='0.1', fontsize='10')
+                    dot.edge(str(id(n)) + n._op, str(id(n)), minlen='1')
+                else:
+                    with dot.subgraph(name='cluster4') as intn:
+                            intn.node(name=str(id(n)) + n._op, label=n._op, width='0.1', height='0.1', fontsize='10')
+                    dot.edge(str(id(n)) + n._op, str(id(n)), minlen='1')
+            else:
+                with dot.subgraph(name='cluster4') as intn:
+                            intn.node(name=str(id(n)) + n._op, label=n._op, width='0.1', height='0.1', fontsize='10')
+                dot.edge(str(id(n)) + n._op, str(id(n)), minlen='1')
 
     for n1, n2 in edges:
         #dot.edge(str(id(n1)), str(id(n2)) + n2._op, minlen='1')
-        if hasattr(n, '_vis_color'):
+        if hasattr(n1, '_vis_color'):
             if n1._vis_color == 'lightgreen' or n1._vis_color == 'blue':
-                dot.edge(str(id(n1)), str(id(n2)) + n2._op, minlen='1',constraint='false')
+                dot.edge(str(id(n1)), str(id(n2)) + n2._op, minlen='1')
                 #dot.edge('dummy0',str(id(n1)),)
             else:
                 dot.edge(str(id(n1)), str(id(n2)) + n2._op, minlen='1')

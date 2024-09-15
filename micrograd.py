@@ -3,7 +3,7 @@ Defines a simple autograd engine and uses it to classify points in the plane
 to 3 classes (red, green, blue) using a simple multilayer perceptron (MLP).
 """
 import math
-from utils import RNG, gen_data_yinyang, draw_dot, vis_color
+from utils import RNG, gen_data_yinyang, draw_dot, vis_color,vis_color_selfandChild,vis_color_entropy
 random = RNG(42)
 
 # -----------------------------------------------------------------------------
@@ -264,11 +264,14 @@ optimizer = AdamW(model.parameters(), lr=1e-1, weight_decay=1e-4)
 def loss_fun(model, split):
     # evaluate the loss function on a given data split
     total_loss = Value(0.0)
+    vis_color(total_loss, "grey91") 
     for x, y in split:
         logits = model(x)
         loss = cross_entropy(logits, y)
         total_loss = total_loss + loss
+        vis_color(total_loss, "grey91") 
     mean_loss = total_loss * (1.0 / len(split))
+    vis_color_selfandChild(mean_loss, "grey91") 
     return mean_loss
 
 # train the network
@@ -294,9 +297,12 @@ for step in range(num_steps):
 x, y = (Value(0.0), Value(0.0)), 0
 loss = loss_fun(model, [(x, y)])
 loss.backward()
+vis_color(x, "lightblue") # color the inputs light blue in the visualization of inputs
+vis_color_entropy(loss, "grey91") # color the inputs light grey in the visualization of loss
+draw_dot(loss)
 try:
     vis_color(x, "lightblue") # color the inputs light blue in the visualization of inputs
-    vis_color(loss, "grey91") # color the inputs light grey in the visualization of loss
+    vis_color_entropy(loss, "grey91") # color the inputs light grey in the visualization of loss
     draw_dot(loss)
 
 except Exception as e:
