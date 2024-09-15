@@ -18,1218 +18,1218 @@ digraph {
 		color=grey91 style=filled
 	}
 	subgraph cluster2 {
-		2558246708592 [label="data: 0.1847
+		2182432468160 [label="data: 0.1847
 grad: 1.0000" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		"2558246708592*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432468160*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246708592*" -> 2558246708592 [minlen=1]
+	"2182432468160*" -> 2182432468160 [minlen=1]
 	subgraph cluster2 {
-		2558246708400 [label="data: 0.1847
+		2182432467968 [label="data: 0.1847
 grad: 1.0000" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		"2558246708400+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432467968+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246708400+" -> 2558246708400 [minlen=1]
+	"2182432467968+" -> 2182432467968 [minlen=1]
 	subgraph cluster2 {
-		2558242920912 [label="data: 0.0000
+		2182430171280 [label="data: 0.0000
 grad: 1.0000" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		2558246708208 [label="data: 0.1847
+		2182432467776 [label="data: 0.1847
 grad: 1.0000" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		"2558246708208*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432467776*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246708208*" -> 2558246708208 [minlen=1]
+	"2182432467776*" -> 2182432467776 [minlen=1]
 	subgraph cluster2 {
-		2558246707920 [label="data: -0.1847
+		2182432467488 [label="data: -0.1847
 grad: -1.0000" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		"2558246707920log" [label=log fontsize=10 height=0.1 width=0.1]
+		"2182432467488log" [label=log fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246707920log" -> 2558246707920 [minlen=1]
+	"2182432467488log" -> 2182432467488 [minlen=1]
 	subgraph cluster2 {
-		2558246706816 [label="data: 0.8314
+		2182432466384 [label="data: 0.8314
 grad: -1.2028" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		"2558246706816*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432466384*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246706816*" -> 2558246706816 [minlen=1]
+	"2182432466384*" -> 2182432466384 [minlen=1]
 	subgraph cluster4 {
-		2558242927824 [label="data: 29.1737
-grad: -0.0058" fillcolor=orange fontsize=10 height=0.1 shape=box style=filled width=0.1]
+		2182430178336 [label="data: 29.1737
+grad: -0.0058" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242927824exp" [label=exp fontsize=10 height=0.1 width=0.1]
+		"2182430178336exp" [label=exp fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242927824exp" -> 2558242927824 [minlen=1]
+	"2182430178336exp" -> 2182430178336 [minlen=1]
 	subgraph cluster4 {
-		2558246699280 [label="data: 3.3733
+		2182432458848 [label="data: 3.3733
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246699280+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432458848+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246699280+" -> 2558246699280 [minlen=1]
+	"2182432458848+" -> 2182432458848 [minlen=1]
 	subgraph cluster4 {
-		2558242930512 [label="data: 4.2692
+		2182432458464 [label="data: 4.2692
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242930512+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432458464+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242930512+" -> 2558242930512 [minlen=1]
+	"2182432458464+" -> 2182432458464 [minlen=1]
 	subgraph cluster4 {
-		2558242930128 [label="data: 0.8675
+		2182432458080 [label="data: 0.8675
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242930128+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432458080+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242930128+" -> 2558242930128 [minlen=1]
+	"2182432458080+" -> 2182432458080 [minlen=1]
 	subgraph cluster4 {
-		2558242929744 [label="data: 6.4692
+		2182432457696 [label="data: 6.4692
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242929744+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432457696+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242929744+" -> 2558242929744 [minlen=1]
+	"2182432457696+" -> 2182432457696 [minlen=1]
 	subgraph cluster4 {
-		2558242929360 [label="data: 8.0635
+		2182432457312 [label="data: 8.0635
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242929360+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432457312+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242929360+" -> 2558242929360 [minlen=1]
+	"2182432457312+" -> 2182432457312 [minlen=1]
 	subgraph cluster4 {
-		2558242928976 [label="data: 10.0841
+		2182432456928 [label="data: 10.0841
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242928976+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432456928+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242928976+" -> 2558242928976 [minlen=1]
+	"2182432456928+" -> 2182432456928 [minlen=1]
 	subgraph cluster4 {
-		2558242928592 [label="data: 7.7805
+		2182430179104 [label="data: 7.7805
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242928592+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430179104+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242928592+" -> 2558242928592 [minlen=1]
+	"2182430179104+" -> 2182430179104 [minlen=1]
 	subgraph cluster4 {
-		2558242928208 [label="data: 6.3218
+		2182430178720 [label="data: 6.3218
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242928208+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430178720+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242928208+" -> 2558242928208 [minlen=1]
+	"2182430178720+" -> 2182430178720 [minlen=1]
 	subgraph cluster3 {
-		2558236343568 [label="data: 2.1667
+		2182411031456 [label="data: 2.1667
 grad: -0.1686" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242928016 [label="data: 4.1550
+		2182430178528 [label="data: 4.1550
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242928016*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430178528*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242928016*" -> 2558242928016 [minlen=1]
+	"2182430178528*" -> 2182430178528 [minlen=1]
 	subgraph cluster3 {
-		2558236343616 [label="data: -4.2018
+		2182411031504 [label="data: -4.2018
 grad: 0.1668" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242922112 [label="data: -0.9889
+		2182430172384 [label="data: -0.9889
 grad: 0.5726" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242922112tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430172384tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242922112tanh" -> 2558242922112 [minlen=1]
+	"2182430172384tanh" -> 2182430172384 [minlen=1]
 	subgraph cluster4 {
-		2558242922016 [label="data: -2.5928
+		2182430172288 [label="data: -2.5928
 grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242922016+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430172288+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242922016+" -> 2558242922016 [minlen=1]
+	"2182430172288+" -> 2182430172288 [minlen=1]
 	subgraph cluster4 {
-		2558242921632 [label="data: -2.5928
+		2182430171904 [label="data: -2.5928
 grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242921632+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430171904+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242921632+" -> 2558242921632 [minlen=1]
+	"2182430171904+" -> 2182430171904 [minlen=1]
 	subgraph cluster3 {
-		2558236341696 [label="data: -2.5928
+		2182411029440 [label="data: -2.5928
 grad: 0.0127" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242921440 [label="data: 0.0000
+		2182430171712 [label="data: 0.0000
 grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242921440*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430171712*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242921440*" -> 2558242921440 [minlen=1]
+	"2182430171712*" -> 2182430171712 [minlen=1]
 	subgraph cluster3 {
-		2558236342032 [label="data: 4.9571
+		2182411029488 [label="data: 4.9571
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster0 {
-		2558242920864 [label="data: 0.0000
+		2182430171232 [label="data: 0.0000
 grad: 3.7110" fillcolor=lightblue fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242921824 [label="data: -0.0000
+		2182430172096 [label="data: -0.0000
 grad: 0.0127" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242921824*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430172096*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242921824*" -> 2558242921824 [minlen=1]
+	"2182430172096*" -> 2182430172096 [minlen=1]
 	subgraph cluster3 {
-		2558236342080 [label="data: -1.9252
+		2182411029968 [label="data: -1.9252
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster0 {
-		2558242920816 [label="data: 0.0000
+		2182430171184 [label="data: 0.0000
 grad: -0.9113" fillcolor=lightblue fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242928400 [label="data: 1.4587
+		2182430178912 [label="data: 1.4587
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242928400*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430178912*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242928400*" -> 2558242928400 [minlen=1]
+	"2182430178912*" -> 2182430178912 [minlen=1]
 	subgraph cluster3 {
-		2558236343664 [label="data: -1.4594
+		2182411031552 [label="data: -1.4594
 grad: 0.1685" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242923072 [label="data: -0.9995
+		2182430173344 [label="data: -0.9995
 grad: -0.0618" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242923072tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430173344tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242923072tanh" -> 2558242923072 [minlen=1]
+	"2182430173344tanh" -> 2182430173344 [minlen=1]
 	subgraph cluster4 {
-		2558242922976 [label="data: -4.1519
+		2182430173248 [label="data: -4.1519
 grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242922976+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430173248+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242922976+" -> 2558242922976 [minlen=1]
+	"2182430173248+" -> 2182430173248 [minlen=1]
 	subgraph cluster4 {
-		2558242922592 [label="data: -4.1519
+		2182430172864 [label="data: -4.1519
 grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242922592+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430172864+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242922592+" -> 2558242922592 [minlen=1]
+	"2182430172864+" -> 2182430172864 [minlen=1]
 	subgraph cluster3 {
-		2558236342128 [label="data: -4.1519
+		2182411030064 [label="data: -4.1519
 grad: -0.0001" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242922400 [label="data: -0.0000
+		2182430172672 [label="data: -0.0000
 grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242922400*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430172672*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242922400*" -> 2558242922400 [minlen=1]
+	"2182430172672*" -> 2182430172672 [minlen=1]
 	subgraph cluster3 {
-		2558236342176 [label="data: -6.0150
+		2182411030112 [label="data: -6.0150
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242922784 [label="data: 0.0000
+		2182430173056 [label="data: 0.0000
 grad: -0.0001" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242922784*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430173056*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242922784*" -> 2558242922784 [minlen=1]
+	"2182430173056*" -> 2182430173056 [minlen=1]
 	subgraph cluster3 {
-		2558236342224 [label="data: 0.3482
+		2182411030160 [label="data: 0.3482
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242928784 [label="data: 2.3036
+		2182430179296 [label="data: 2.3036
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242928784*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430179296*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242928784*" -> 2558242928784 [minlen=1]
+	"2182430179296*" -> 2182430179296 [minlen=1]
 	subgraph cluster3 {
-		2558236343712 [label="data: 4.5455
+		2182411031600 [label="data: 4.5455
 grad: -0.0855" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242924032 [label="data: 0.5068
+		2182430169936 [label="data: 0.5068
 grad: -1.1617" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242924032tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430169936tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242924032tanh" -> 2558242924032 [minlen=1]
+	"2182430169936tanh" -> 2182430169936 [minlen=1]
 	subgraph cluster4 {
-		2558242923936 [label="data: 0.5584
+		2182430170128 [label="data: 0.5584
 grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242923936+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430170128+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242923936+" -> 2558242923936 [minlen=1]
+	"2182430170128+" -> 2182430170128 [minlen=1]
 	subgraph cluster4 {
-		2558242923552 [label="data: 0.5584
+		2182430173824 [label="data: 0.5584
 grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242923552+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430173824+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242923552+" -> 2558242923552 [minlen=1]
+	"2182430173824+" -> 2182430173824 [minlen=1]
 	subgraph cluster3 {
-		2558236342320 [label="data: 0.5584
+		2182411030256 [label="data: 0.5584
 grad: -0.8634" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242923360 [label="data: -0.0000
+		2182430173632 [label="data: -0.0000
 grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242923360*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430173632*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242923360*" -> 2558242923360 [minlen=1]
+	"2182430173632*" -> 2182430173632 [minlen=1]
 	subgraph cluster3 {
-		2558236342368 [label="data: -3.7292
+		2182411030304 [label="data: -3.7292
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242923744 [label="data: 0.0000
+		2182430174016 [label="data: 0.0000
 grad: -0.8634" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242923744*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430174016*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242923744*" -> 2558242923744 [minlen=1]
+	"2182430174016*" -> 2182430174016 [minlen=1]
 	subgraph cluster3 {
-		2558236342416 [label="data: 1.2740
+		2182411030352 [label="data: 1.2740
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242929168 [label="data: -2.0205
+		2182432457120 [label="data: -2.0205
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242929168*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432457120*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242929168*" -> 2558242929168 [minlen=1]
+	"2182432457120*" -> 2182432457120 [minlen=1]
 	subgraph cluster3 {
-		2558236343808 [label="data: -2.0232
+		2182411031648 [label="data: -2.0232
 grad: -0.1684" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242924992 [label="data: 0.9987
+		2182430174400 [label="data: 0.9987
 grad: -0.1033" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242924992tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430174400tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242924992tanh" -> 2558242924992 [minlen=1]
+	"2182430174400tanh" -> 2182430174400 [minlen=1]
 	subgraph cluster4 {
-		2558242924896 [label="data: 3.6619
+		2182430174304 [label="data: 3.6619
 grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242924896+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430174304+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242924896+" -> 2558242924896 [minlen=1]
+	"2182430174304+" -> 2182430174304 [minlen=1]
 	subgraph cluster4 {
-		2558242924512 [label="data: 3.6619
+		2182430169120 [label="data: 3.6619
 grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242924512+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430169120+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242924512+" -> 2558242924512 [minlen=1]
+	"2182430169120+" -> 2182430169120 [minlen=1]
 	subgraph cluster3 {
-		2558236342512 [label="data: 3.6619
+		2182411030448 [label="data: 3.6619
 grad: -0.0003" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242924320 [label="data: -0.0000
+		2182430169744 [label="data: -0.0000
 grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242924320*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430169744*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242924320*" -> 2558242924320 [minlen=1]
+	"2182430169744*" -> 2182430169744 [minlen=1]
 	subgraph cluster3 {
-		2558236342560 [label="data: -1.3494
+		2182411030496 [label="data: -1.3494
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242924704 [label="data: -0.0000
+		2182430168928 [label="data: -0.0000
 grad: -0.0003" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242924704*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430168928*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242924704*" -> 2558242924704 [minlen=1]
+	"2182430168928*" -> 2182430168928 [minlen=1]
 	subgraph cluster3 {
-		2558236342608 [label="data: -5.7384
+		2182411030544 [label="data: -5.7384
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242929552 [label="data: -1.5944
+		2182432457504 [label="data: -1.5944
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242929552*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432457504*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242929552*" -> 2558242929552 [minlen=1]
+	"2182432457504*" -> 2182432457504 [minlen=1]
 	subgraph cluster3 {
-		2558236343856 [label="data: 1.5965
+		2182411031696 [label="data: 1.5965
 grad: 0.1684" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242918848 [label="data: -0.9987
+		2182430175360 [label="data: -0.9987
 grad: 0.1568" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242918848tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430175360tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242918848tanh" -> 2558242918848 [minlen=1]
+	"2182430175360tanh" -> 2182430175360 [minlen=1]
 	subgraph cluster4 {
-		2558242918800 [label="data: -3.6555
+		2182430175264 [label="data: -3.6555
 grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242918800+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430175264+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242918800+" -> 2558242918800 [minlen=1]
+	"2182430175264+" -> 2182430175264 [minlen=1]
 	subgraph cluster4 {
-		2558242919808 [label="data: -3.6555
+		2182430174880 [label="data: -3.6555
 grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242919808+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430174880+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242919808+" -> 2558242919808 [minlen=1]
+	"2182430174880+" -> 2182430174880 [minlen=1]
 	subgraph cluster3 {
-		2558236342752 [label="data: -3.6555
+		2182411030640 [label="data: -3.6555
 grad: 0.0004" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242920672 [label="data: -0.0000
+		2182430174688 [label="data: -0.0000
 grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242920672*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430174688*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242920672*" -> 2558242920672 [minlen=1]
+	"2182430174688*" -> 2182430174688 [minlen=1]
 	subgraph cluster3 {
-		2558236342800 [label="data: -1.8775
+		2182411030688 [label="data: -1.8775
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242919616 [label="data: -0.0000
+		2182430175072 [label="data: -0.0000
 grad: 0.0004" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242919616*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430175072*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242919616*" -> 2558242919616 [minlen=1]
+	"2182430175072*" -> 2182430175072 [minlen=1]
 	subgraph cluster3 {
-		2558236342848 [label="data: -4.9505
+		2182411030736 [label="data: -4.9505
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242929936 [label="data: -5.6017
+		2182432457888 [label="data: -5.6017
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242929936*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432457888*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242929936*" -> 2558242929936 [minlen=1]
+	"2182432457888*" -> 2182432457888 [minlen=1]
 	subgraph cluster3 {
-		2558236343904 [label="data: 5.6092
+		2182411031744 [label="data: 5.6092
 grad: 0.1684" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242925808 [label="data: -0.9986
+		2182430176320 [label="data: -0.9986
 grad: -1.6718" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242925808tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430176320tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242925808tanh" -> 2558242925808 [minlen=1]
+	"2182430176320tanh" -> 2182430176320 [minlen=1]
 	subgraph cluster4 {
-		2558242925760 [label="data: -3.6494
+		2182430176224 [label="data: -3.6494
 grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242925760+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430176224+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242925760+" -> 2558242925760 [minlen=1]
+	"2182430176224+" -> 2182430176224 [minlen=1]
 	subgraph cluster4 {
-		2558242925376 [label="data: -3.6494
+		2182430175840 [label="data: -3.6494
 grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242925376+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430175840+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242925376+" -> 2558242925376 [minlen=1]
+	"2182430175840+" -> 2182430175840 [minlen=1]
 	subgraph cluster3 {
-		2558236342944 [label="data: -3.6494
+		2182411030832 [label="data: -3.6494
 grad: -0.0045" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242918560 [label="data: -0.0000
+		2182430175648 [label="data: -0.0000
 grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242918560*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430175648*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242918560*" -> 2558242918560 [minlen=1]
+	"2182430175648*" -> 2182430175648 [minlen=1]
 	subgraph cluster3 {
-		2558236342992 [label="data: -2.1246
+		2182411030880 [label="data: -2.1246
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242925568 [label="data: 0.0000
+		2182430176032 [label="data: 0.0000
 grad: -0.0045" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242925568*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430176032*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242925568*" -> 2558242925568 [minlen=1]
+	"2182430176032*" -> 2182430176032 [minlen=1]
 	subgraph cluster3 {
-		2558236343040 [label="data: 3.6496
+		2182411030928 [label="data: 3.6496
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242930320 [label="data: 3.4017
+		2182432458272 [label="data: 3.4017
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242930320*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432458272*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242930320*" -> 2558242930320 [minlen=1]
+	"2182432458272*" -> 2182432458272 [minlen=1]
 	subgraph cluster3 {
-		2558236343952 [label="data: 3.4079
+		2182411031792 [label="data: 3.4079
 grad: -0.1683" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242926768 [label="data: 0.9982
+		2182430177280 [label="data: 0.9982
 grad: -1.2976" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242926768tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430177280tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242926768tanh" -> 2558242926768 [minlen=1]
+	"2182430177280tanh" -> 2182430177280 [minlen=1]
 	subgraph cluster4 {
-		2558242926672 [label="data: 3.5036
+		2182430177184 [label="data: 3.5036
 grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242926672+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430177184+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242926672+" -> 2558242926672 [minlen=1]
+	"2182430177184+" -> 2182430177184 [minlen=1]
 	subgraph cluster4 {
-		2558242926288 [label="data: 3.5036
+		2182430176800 [label="data: 3.5036
 grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242926288+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430176800+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242926288+" -> 2558242926288 [minlen=1]
+	"2182430176800+" -> 2182430176800 [minlen=1]
 	subgraph cluster3 {
-		2558236343136 [label="data: 3.5036
+		2182411031024 [label="data: 3.5036
 grad: -0.0047" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242926096 [label="data: -0.0000
+		2182430176608 [label="data: -0.0000
 grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242926096*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430176608*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242926096*" -> 2558242926096 [minlen=1]
+	"2182430176608*" -> 2182430176608 [minlen=1]
 	subgraph cluster3 {
-		2558236343184 [label="data: -0.6425
+		2182411031072 [label="data: -0.6425
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242926480 [label="data: 0.0000
+		2182430176992 [label="data: 0.0000
 grad: -0.0047" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242926480*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430176992*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242926480*" -> 2558242926480 [minlen=1]
+	"2182430176992*" -> 2182430176992 [minlen=1]
 	subgraph cluster3 {
-		2558236343232 [label="data: 5.7349
+		2182411031120 [label="data: 5.7349
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246699088 [label="data: -0.8960
+		2182432458656 [label="data: -0.8960
 grad: -0.1686" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246699088*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432458656*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246699088*" -> 2558246699088 [minlen=1]
+	"2182432458656*" -> 2182432458656 [minlen=1]
 	subgraph cluster3 {
-		2558236344000 [label="data: -0.9763
+		2182411031840 [label="data: -0.9763
 grad: -0.1548" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242927728 [label="data: 0.9177
+		2182430178240 [label="data: 0.9177
 grad: 0.6135" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242927728tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
+		"2182430178240tanh" [label=tanh fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242927728tanh" -> 2558242927728 [minlen=1]
+	"2182430178240tanh" -> 2182430178240 [minlen=1]
 	subgraph cluster4 {
-		2558242927632 [label="data: 1.5743
+		2182430178144 [label="data: 1.5743
 grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242927632+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430178144+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242927632+" -> 2558242927632 [minlen=1]
+	"2182430178144+" -> 2182430178144 [minlen=1]
 	subgraph cluster4 {
-		2558242927248 [label="data: 1.5743
+		2182430177760 [label="data: 1.5743
 grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242927248+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182430177760+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242927248+" -> 2558242927248 [minlen=1]
+	"2182430177760+" -> 2182430177760 [minlen=1]
 	subgraph cluster3 {
-		2558236343328 [label="data: 1.5743
+		2182411031216 [label="data: 1.5743
 grad: 0.0968" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242927056 [label="data: 0.0000
+		2182430177568 [label="data: 0.0000
 grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242927056*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430177568*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242927056*" -> 2558242927056 [minlen=1]
+	"2182430177568*" -> 2182430177568 [minlen=1]
 	subgraph cluster3 {
-		2558236343376 [label="data: 4.2953
+		2182411031264 [label="data: 4.2953
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558242927440 [label="data: 0.0000
+		2182430177952 [label="data: 0.0000
 grad: 0.0968" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558242927440*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182430177952*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558242927440*" -> 2558242927440 [minlen=1]
+	"2182430177952*" -> 2182430177952 [minlen=1]
 	subgraph cluster3 {
-		2558236343424 [label="data: 2.6541
+		2182411031312 [label="data: 2.6541
 grad: 0.0000" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
-	subgraph cluster2 {
-		2558246706576 [label="data: 0.0285
-grad: -35.0913" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
-	}
-	subgraph cluster2 {
-		"2558246706576**-1" [label="**-1" fontsize=10 height=0.1 width=0.1]
-	}
-	"2558246706576**-1" -> 2558246706576 [minlen=1]
-	subgraph cluster2 {
-		2558246706384 [label="data: 35.0913
-grad: 0.0285" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
-	}
-	subgraph cluster2 {
-		"2558246706384+" [label="+" fontsize=10 height=0.1 width=0.1]
-	}
-	"2558246706384+" -> 2558246706384 [minlen=1]
-	subgraph cluster2 {
-		2558246706192 [label="data: 35.0535
-grad: 0.0285" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
-	}
-	subgraph cluster2 {
-		"2558246706192+" [label="+" fontsize=10 height=0.1 width=0.1]
-	}
-	"2558246706192+" -> 2558246706192 [minlen=1]
-	subgraph cluster2 {
-		2558246706000 [label="data: 29.1737
-grad: 0.0285" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
-	}
-	subgraph cluster2 {
-		"2558246706000+" [label="+" fontsize=10 height=0.1 width=0.1]
-	}
-	"2558246706000+" -> 2558246706000 [minlen=1]
-	subgraph cluster2 {
-		2558246705952 [label="data: 0.0000
-grad: 0.0285" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	subgraph cluster4 {
+		2182432466144 [label="data: 0.0285
+grad: -35.0913" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246705568 [label="data: 5.8798
-grad: 0.0285" fillcolor=orange fontsize=10 height=0.1 shape=box style=filled width=0.1]
+		"2182432466144**-1" [label="**-1" fontsize=10 height=0.1 width=0.1]
+	}
+	"2182432466144**-1" -> 2182432466144 [minlen=1]
+	subgraph cluster4 {
+		2182432465952 [label="data: 35.0913
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246705568exp" [label=exp fontsize=10 height=0.1 width=0.1]
+		"2182432465952+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246705568exp" -> 2558246705568 [minlen=1]
+	"2182432465952+" -> 2182432465952 [minlen=1]
 	subgraph cluster4 {
-		2558246702352 [label="data: 1.7715
+		2182432465760 [label="data: 35.0535
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	}
+	subgraph cluster4 {
+		"2182432465760+" [label="+" fontsize=10 height=0.1 width=0.1]
+	}
+	"2182432465760+" -> 2182432465760 [minlen=1]
+	subgraph cluster4 {
+		2182432465568 [label="data: 29.1737
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	}
+	subgraph cluster4 {
+		"2182432465568+" [label="+" fontsize=10 height=0.1 width=0.1]
+	}
+	"2182432465568+" -> 2182432465568 [minlen=1]
+	subgraph cluster4 {
+		2182432465520 [label="data: 0.0000
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	}
+	subgraph cluster4 {
+		2182432465136 [label="data: 5.8798
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
+	}
+	subgraph cluster4 {
+		"2182432465136exp" [label=exp fontsize=10 height=0.1 width=0.1]
+	}
+	"2182432465136exp" -> 2182432465136 [minlen=1]
+	subgraph cluster4 {
+		2182432461920 [label="data: 1.7715
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246702352+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432461920+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246702352+" -> 2558246702352 [minlen=1]
+	"2182432461920+" -> 2182432461920 [minlen=1]
 	subgraph cluster4 {
-		2558246701968 [label="data: -0.7127
+		2182432461536 [label="data: -0.7127
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246701968+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432461536+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246701968+" -> 2558246701968 [minlen=1]
+	"2182432461536+" -> 2182432461536 [minlen=1]
 	subgraph cluster4 {
-		2558246701584 [label="data: 3.6172
+		2182432461152 [label="data: 3.6172
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246701584+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432461152+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246701584+" -> 2558246701584 [minlen=1]
+	"2182432461152+" -> 2182432461152 [minlen=1]
 	subgraph cluster4 {
-		2558246701200 [label="data: -0.6934
+		2182432460768 [label="data: -0.6934
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246701200+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432460768+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246701200+" -> 2558246701200 [minlen=1]
+	"2182432460768+" -> 2182432460768 [minlen=1]
 	subgraph cluster4 {
-		2558246700816 [label="data: 1.8837
+		2182432460384 [label="data: 1.8837
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246700816+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432460384+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246700816+" -> 2558246700816 [minlen=1]
+	"2182432460384+" -> 2182432460384 [minlen=1]
 	subgraph cluster4 {
-		2558246700432 [label="data: 4.5596
+		2182432460000 [label="data: 4.5596
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246700432+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432460000+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246700432+" -> 2558246700432 [minlen=1]
+	"2182432460000+" -> 2182432460000 [minlen=1]
 	subgraph cluster4 {
-		2558246700048 [label="data: 5.7455
+		2182432459616 [label="data: 5.7455
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246700048+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432459616+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246700048+" -> 2558246700048 [minlen=1]
+	"2182432459616+" -> 2182432459616 [minlen=1]
 	subgraph cluster4 {
-		2558246699664 [label="data: 3.8720
+		2182432459232 [label="data: 3.8720
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246699664+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432459232+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246699664+" -> 2558246699664 [minlen=1]
+	"2182432459232+" -> 2182432459232 [minlen=1]
 	subgraph cluster3 {
-		2558236262528 [label="data: 3.0364
+		2182411031936 [label="data: 3.0364
 grad: 0.1676" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246699472 [label="data: 0.8356
+		2182432459040 [label="data: 0.8356
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246699472*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432459040*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246699472*" -> 2558246699472 [minlen=1]
+	"2182432459040*" -> 2182432459040 [minlen=1]
 	subgraph cluster3 {
-		2558236344144 [label="data: -0.8450
+		2182411031984 [label="data: -0.8450
 grad: -0.1657" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246699856 [label="data: 1.8735
+		2182432459424 [label="data: 1.8735
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246699856*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432459424*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246699856*" -> 2558246699856 [minlen=1]
+	"2182432459424*" -> 2182432459424 [minlen=1]
 	subgraph cluster3 {
-		2558236344192 [label="data: -1.8744
+		2182411032032 [label="data: -1.8744
 grad: -0.1675" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246700240 [label="data: -1.1859
+		2182432459808 [label="data: -1.1859
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246700240*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432459808*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246700240*" -> 2558246700240 [minlen=1]
+	"2182432459808*" -> 2182432459808 [minlen=1]
 	subgraph cluster3 {
-		2558236344240 [label="data: -2.3400
+		2182411032080 [label="data: -2.3400
 grad: 0.0849" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246700624 [label="data: -2.6759
+		2182432460192 [label="data: -2.6759
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246700624*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432460192*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246700624*" -> 2558246700624 [minlen=1]
+	"2182432460192*" -> 2182432460192 [minlen=1]
 	subgraph cluster3 {
-		2558236344288 [label="data: -2.6794
+		2182411032128 [label="data: -2.6794
 grad: 0.1673" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246701008 [label="data: -2.5770
+		2182432460576 [label="data: -2.5770
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246701008*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432460576*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246701008*" -> 2558246701008 [minlen=1]
+	"2182432460576*" -> 2182432460576 [minlen=1]
 	subgraph cluster3 {
-		2558236341840 [label="data: 2.5805
+		2182411032176 [label="data: 2.5805
 grad: -0.1673" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246701392 [label="data: 4.3106
+		2182432460960 [label="data: 4.3106
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246701392*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432460960*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246701392*" -> 2558246701392 [minlen=1]
+	"2182432460960*" -> 2182432460960 [minlen=1]
 	subgraph cluster3 {
-		2558236344096 [label="data: -4.3164
+		2182411032224 [label="data: -4.3164
 grad: -0.1673" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246701776 [label="data: -4.3299
+		2182432461344 [label="data: -4.3299
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246701776*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432461344*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246701776*" -> 2558246701776 [minlen=1]
+	"2182432461344*" -> 2182432461344 [minlen=1]
 	subgraph cluster3 {
-		2558236262576 [label="data: -4.3377
+		2182411032272 [label="data: -4.3377
 grad: 0.1673" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246702160 [label="data: 2.4842
+		2182432461728 [label="data: 2.4842
 grad: 0.1676" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246702160*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432461728*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246702160*" -> 2558246702160 [minlen=1]
+	"2182432461728*" -> 2182432461728 [minlen=1]
 	subgraph cluster3 {
-		2558236262624 [label="data: 2.7070
+		2182411032320 [label="data: 2.7070
 grad: 0.1538" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246705712 [label="data: 0.0378
-grad: 0.0285" fillcolor=orange fontsize=10 height=0.1 shape=box style=filled width=0.1]
+		2182432465280 [label="data: 0.0378
+grad: 0.0285" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246705712exp" [label=exp fontsize=10 height=0.1 width=0.1]
+		"2182432465280exp" [label=exp fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246705712exp" -> 2558246705712 [minlen=1]
+	"2182432465280exp" -> 2182432465280 [minlen=1]
 	subgraph cluster4 {
-		2558246705424 [label="data: -3.2765
+		2182432464992 [label="data: -3.2765
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246705424+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432464992+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246705424+" -> 2558246705424 [minlen=1]
+	"2182432464992+" -> 2182432464992 [minlen=1]
 	subgraph cluster4 {
-		2558246705040 [label="data: 0.6992
+		2182432464608 [label="data: 0.6992
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246705040+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432464608+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246705040+" -> 2558246705040 [minlen=1]
+	"2182432464608+" -> 2182432464608 [minlen=1]
 	subgraph cluster4 {
-		2558246704656 [label="data: -2.8945
+		2182432464224 [label="data: -2.8945
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246704656+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432464224+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246704656+" -> 2558246704656 [minlen=1]
+	"2182432464224+" -> 2182432464224 [minlen=1]
 	subgraph cluster4 {
-		2558246704272 [label="data: -5.3139
+		2182432463840 [label="data: -5.3139
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246704272+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432463840+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246704272+" -> 2558246704272 [minlen=1]
+	"2182432463840+" -> 2182432463840 [minlen=1]
 	subgraph cluster4 {
-		2558246703888 [label="data: -11.2312
+		2182432463456 [label="data: -11.2312
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246703888+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432463456+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246703888+" -> 2558246703888 [minlen=1]
+	"2182432463456+" -> 2182432463456 [minlen=1]
 	subgraph cluster4 {
-		2558246703504 [label="data: -15.3605
+		2182432463072 [label="data: -15.3605
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246703504+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432463072+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246703504+" -> 2558246703504 [minlen=1]
+	"2182432463072+" -> 2182432463072 [minlen=1]
 	subgraph cluster4 {
-		2558246703120 [label="data: -13.8831
+		2182432462688 [label="data: -13.8831
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246703120+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432462688+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246703120+" -> 2558246703120 [minlen=1]
+	"2182432462688+" -> 2182432462688 [minlen=1]
 	subgraph cluster4 {
-		2558246702736 [label="data: -8.1928
+		2182432462304 [label="data: -8.1928
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246702736+" [label="+" fontsize=10 height=0.1 width=0.1]
+		"2182432462304+" [label="+" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246702736+" -> 2558246702736 [minlen=1]
+	"2182432462304+" -> 2182432462304 [minlen=1]
 	subgraph cluster3 {
-		2558236262720 [label="data: -3.0093
+		2182411032416 [label="data: -3.0093
 grad: 0.0011" fillcolor=blue fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246702544 [label="data: -5.1835
+		2182432462112 [label="data: -5.1835
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246702544*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432462112*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246702544*" -> 2558246702544 [minlen=1]
+	"2182432462112*" -> 2182432462112 [minlen=1]
 	subgraph cluster3 {
-		2558236262768 [label="data: 5.2419
+		2182411032464 [label="data: 5.2419
 grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246702928 [label="data: -5.6903
+		2182432462496 [label="data: -5.6903
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246702928*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432462496*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246702928*" -> 2558246702928 [minlen=1]
+	"2182432462496*" -> 2182432462496 [minlen=1]
 	subgraph cluster3 {
-		2558236262816 [label="data: 5.6931
+		2182411032512 [label="data: 5.6931
 grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246703312 [label="data: -1.4774
+		2182432462880 [label="data: -1.4774
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246703312*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432462880*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246703312*" -> 2558246703312 [minlen=1]
+	"2182432462880*" -> 2182432462880 [minlen=1]
 	subgraph cluster3 {
-		2558236262864 [label="data: -2.9153
+		2182411032560 [label="data: -2.9153
 grad: 0.0005" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246703696 [label="data: 4.1293
+		2182432463264 [label="data: 4.1293
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246703696*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432463264*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246703696*" -> 2558246703696 [minlen=1]
+	"2182432463264*" -> 2182432463264 [minlen=1]
 	subgraph cluster3 {
-		2558236262912 [label="data: 4.1347
+		2182411032608 [label="data: 4.1347
 grad: 0.0011" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246704080 [label="data: 5.9173
+		2182432463648 [label="data: 5.9173
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246704080*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432463648*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246704080*" -> 2558246704080 [minlen=1]
+	"2182432463648*" -> 2182432463648 [minlen=1]
 	subgraph cluster3 {
-		2558236262960 [label="data: -5.9252
+		2182411032656 [label="data: -5.9252
 grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246704464 [label="data: 2.4195
+		2182432464032 [label="data: 2.4195
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246704464*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432464032*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246704464*" -> 2558246704464 [minlen=1]
+	"2182432464032*" -> 2182432464032 [minlen=1]
 	subgraph cluster3 {
-		2558236263008 [label="data: -2.4227
+		2182411032704 [label="data: -2.4227
 grad: -0.0011" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246704848 [label="data: 3.5937
+		2182432464416 [label="data: 3.5937
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246704848*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432464416*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246704848*" -> 2558246704848 [minlen=1]
+	"2182432464416*" -> 2182432464416 [minlen=1]
 	subgraph cluster3 {
-		2558236263056 [label="data: 3.6002
+		2182411032752 [label="data: 3.6002
 grad: 0.0011" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		2558246705232 [label="data: -3.9757
+		2182432464800 [label="data: -3.9757
 grad: 0.0011" fillcolor=white fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster4 {
-		"2558246705232*" [label="*" fontsize=10 height=0.1 width=0.1]
+		"2182432464800*" [label="*" fontsize=10 height=0.1 width=0.1]
 	}
-	"2558246705232*" -> 2558246705232 [minlen=1]
+	"2182432464800*" -> 2182432464800 [minlen=1]
 	subgraph cluster3 {
-		2558236263104 [label="data: -4.3322
+		2182411032800 [label="data: -4.3322
 grad: 0.0010" fillcolor=lightgreen fontsize=10 height=0.1 pos="0, 0!" shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		2558246708160 [label="data: -1.0000
+		2182432467728 [label="data: -1.0000
 grad: -0.1847" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
 	subgraph cluster2 {
-		2558246708544 [label="data: 1.0000
+		2182432468112 [label="data: 1.0000
 grad: 0.1847" fillcolor=grey91 fontsize=10 height=0.1 shape=box style=filled width=0.1]
 	}
-	2558246708400 -> "2558246708592*" [minlen=1]
-	2558242920912 -> "2558246708400+" [minlen=1]
-	2558246708208 -> "2558246708400+" [minlen=1]
-	2558246707920 -> "2558246708208*" [minlen=1]
-	2558246706816 -> "2558246707920log" [minlen=1]
-	2558242927824 -> "2558246706816*" [minlen=1]
-	2558246699280 -> "2558242927824exp" [minlen=1]
-	2558242930512 -> "2558246699280+" [minlen=1]
-	2558242930128 -> "2558242930512+" [minlen=1]
-	2558242929744 -> "2558242930128+" [minlen=1]
-	2558242929360 -> "2558242929744+" [minlen=1]
-	2558242928976 -> "2558242929360+" [minlen=1]
-	2558242928592 -> "2558242928976+" [minlen=1]
-	2558242928208 -> "2558242928592+" [minlen=1]
-	2558236343568 -> "2558242928208+" [minlen=1]
-	2558242928016 -> "2558242928208+" [minlen=1]
-	2558236343616 -> "2558242928016*" [minlen=1]
-	2558242922112 -> "2558242928016*" [minlen=1]
-	2558242922016 -> "2558242922112tanh" [minlen=1]
-	2558242921632 -> "2558242922016+" [minlen=1]
-	2558236341696 -> "2558242921632+" [minlen=1]
-	2558242921440 -> "2558242921632+" [minlen=1]
-	2558236342032 -> "2558242921440*" [minlen=1]
-	2558242920864 -> "2558242921440*" [minlen=1]
-	2558242921824 -> "2558242922016+" [minlen=1]
-	2558236342080 -> "2558242921824*" [minlen=1]
-	2558242920816 -> "2558242921824*" [minlen=1]
-	2558242928400 -> "2558242928592+" [minlen=1]
-	2558236343664 -> "2558242928400*" [minlen=1]
-	2558242923072 -> "2558242928400*" [minlen=1]
-	2558242922976 -> "2558242923072tanh" [minlen=1]
-	2558242922592 -> "2558242922976+" [minlen=1]
-	2558236342128 -> "2558242922592+" [minlen=1]
-	2558242922400 -> "2558242922592+" [minlen=1]
-	2558236342176 -> "2558242922400*" [minlen=1]
-	2558242920864 -> "2558242922400*" [minlen=1]
-	2558242922784 -> "2558242922976+" [minlen=1]
-	2558236342224 -> "2558242922784*" [minlen=1]
-	2558242920816 -> "2558242922784*" [minlen=1]
-	2558242928784 -> "2558242928976+" [minlen=1]
-	2558236343712 -> "2558242928784*" [minlen=1]
-	2558242924032 -> "2558242928784*" [minlen=1]
-	2558242923936 -> "2558242924032tanh" [minlen=1]
-	2558242923552 -> "2558242923936+" [minlen=1]
-	2558236342320 -> "2558242923552+" [minlen=1]
-	2558242923360 -> "2558242923552+" [minlen=1]
-	2558236342368 -> "2558242923360*" [minlen=1]
-	2558242920864 -> "2558242923360*" [minlen=1]
-	2558242923744 -> "2558242923936+" [minlen=1]
-	2558236342416 -> "2558242923744*" [minlen=1]
-	2558242920816 -> "2558242923744*" [minlen=1]
-	2558242929168 -> "2558242929360+" [minlen=1]
-	2558236343808 -> "2558242929168*" [minlen=1]
-	2558242924992 -> "2558242929168*" [minlen=1]
-	2558242924896 -> "2558242924992tanh" [minlen=1]
-	2558242924512 -> "2558242924896+" [minlen=1]
-	2558236342512 -> "2558242924512+" [minlen=1]
-	2558242924320 -> "2558242924512+" [minlen=1]
-	2558236342560 -> "2558242924320*" [minlen=1]
-	2558242920864 -> "2558242924320*" [minlen=1]
-	2558242924704 -> "2558242924896+" [minlen=1]
-	2558236342608 -> "2558242924704*" [minlen=1]
-	2558242920816 -> "2558242924704*" [minlen=1]
-	2558242929552 -> "2558242929744+" [minlen=1]
-	2558236343856 -> "2558242929552*" [minlen=1]
-	2558242918848 -> "2558242929552*" [minlen=1]
-	2558242918800 -> "2558242918848tanh" [minlen=1]
-	2558242919808 -> "2558242918800+" [minlen=1]
-	2558236342752 -> "2558242919808+" [minlen=1]
-	2558242920672 -> "2558242919808+" [minlen=1]
-	2558236342800 -> "2558242920672*" [minlen=1]
-	2558242920864 -> "2558242920672*" [minlen=1]
-	2558242919616 -> "2558242918800+" [minlen=1]
-	2558236342848 -> "2558242919616*" [minlen=1]
-	2558242920816 -> "2558242919616*" [minlen=1]
-	2558242929936 -> "2558242930128+" [minlen=1]
-	2558236343904 -> "2558242929936*" [minlen=1]
-	2558242925808 -> "2558242929936*" [minlen=1]
-	2558242925760 -> "2558242925808tanh" [minlen=1]
-	2558242925376 -> "2558242925760+" [minlen=1]
-	2558236342944 -> "2558242925376+" [minlen=1]
-	2558242918560 -> "2558242925376+" [minlen=1]
-	2558236342992 -> "2558242918560*" [minlen=1]
-	2558242920864 -> "2558242918560*" [minlen=1]
-	2558242925568 -> "2558242925760+" [minlen=1]
-	2558236343040 -> "2558242925568*" [minlen=1]
-	2558242920816 -> "2558242925568*" [minlen=1]
-	2558242930320 -> "2558242930512+" [minlen=1]
-	2558236343952 -> "2558242930320*" [minlen=1]
-	2558242926768 -> "2558242930320*" [minlen=1]
-	2558242926672 -> "2558242926768tanh" [minlen=1]
-	2558242926288 -> "2558242926672+" [minlen=1]
-	2558236343136 -> "2558242926288+" [minlen=1]
-	2558242926096 -> "2558242926288+" [minlen=1]
-	2558236343184 -> "2558242926096*" [minlen=1]
-	2558242920864 -> "2558242926096*" [minlen=1]
-	2558242926480 -> "2558242926672+" [minlen=1]
-	2558236343232 -> "2558242926480*" [minlen=1]
-	2558242920816 -> "2558242926480*" [minlen=1]
-	2558246699088 -> "2558246699280+" [minlen=1]
-	2558236344000 -> "2558246699088*" [minlen=1]
-	2558242927728 -> "2558246699088*" [minlen=1]
-	2558242927632 -> "2558242927728tanh" [minlen=1]
-	2558242927248 -> "2558242927632+" [minlen=1]
-	2558236343328 -> "2558242927248+" [minlen=1]
-	2558242927056 -> "2558242927248+" [minlen=1]
-	2558236343376 -> "2558242927056*" [minlen=1]
-	2558242920864 -> "2558242927056*" [minlen=1]
-	2558242927440 -> "2558242927632+" [minlen=1]
-	2558236343424 -> "2558242927440*" [minlen=1]
-	2558242920816 -> "2558242927440*" [minlen=1]
-	2558246706576 -> "2558246706816*" [minlen=1]
-	2558246706384 -> "2558246706576**-1" [minlen=1]
-	2558246706192 -> "2558246706384+" [minlen=1]
-	2558246706000 -> "2558246706192+" [minlen=1]
-	2558242927824 -> "2558246706000+" [minlen=1]
-	2558246705952 -> "2558246706000+" [minlen=1]
-	2558246705568 -> "2558246706192+" [minlen=1]
-	2558246702352 -> "2558246705568exp" [minlen=1]
-	2558246701968 -> "2558246702352+" [minlen=1]
-	2558246701584 -> "2558246701968+" [minlen=1]
-	2558246701200 -> "2558246701584+" [minlen=1]
-	2558246700816 -> "2558246701200+" [minlen=1]
-	2558246700432 -> "2558246700816+" [minlen=1]
-	2558246700048 -> "2558246700432+" [minlen=1]
-	2558246699664 -> "2558246700048+" [minlen=1]
-	2558236262528 -> "2558246699664+" [minlen=1]
-	2558246699472 -> "2558246699664+" [minlen=1]
-	2558236344144 -> "2558246699472*" [minlen=1]
-	2558242922112 -> "2558246699472*" [minlen=1]
-	2558246699856 -> "2558246700048+" [minlen=1]
-	2558236344192 -> "2558246699856*" [minlen=1]
-	2558242923072 -> "2558246699856*" [minlen=1]
-	2558246700240 -> "2558246700432+" [minlen=1]
-	2558236344240 -> "2558246700240*" [minlen=1]
-	2558242924032 -> "2558246700240*" [minlen=1]
-	2558246700624 -> "2558246700816+" [minlen=1]
-	2558236344288 -> "2558246700624*" [minlen=1]
-	2558242924992 -> "2558246700624*" [minlen=1]
-	2558246701008 -> "2558246701200+" [minlen=1]
-	2558236341840 -> "2558246701008*" [minlen=1]
-	2558242918848 -> "2558246701008*" [minlen=1]
-	2558246701392 -> "2558246701584+" [minlen=1]
-	2558236344096 -> "2558246701392*" [minlen=1]
-	2558242925808 -> "2558246701392*" [minlen=1]
-	2558246701776 -> "2558246701968+" [minlen=1]
-	2558236262576 -> "2558246701776*" [minlen=1]
-	2558242926768 -> "2558246701776*" [minlen=1]
-	2558246702160 -> "2558246702352+" [minlen=1]
-	2558236262624 -> "2558246702160*" [minlen=1]
-	2558242927728 -> "2558246702160*" [minlen=1]
-	2558246705712 -> "2558246706384+" [minlen=1]
-	2558246705424 -> "2558246705712exp" [minlen=1]
-	2558246705040 -> "2558246705424+" [minlen=1]
-	2558246704656 -> "2558246705040+" [minlen=1]
-	2558246704272 -> "2558246704656+" [minlen=1]
-	2558246703888 -> "2558246704272+" [minlen=1]
-	2558246703504 -> "2558246703888+" [minlen=1]
-	2558246703120 -> "2558246703504+" [minlen=1]
-	2558246702736 -> "2558246703120+" [minlen=1]
-	2558236262720 -> "2558246702736+" [minlen=1]
-	2558246702544 -> "2558246702736+" [minlen=1]
-	2558236262768 -> "2558246702544*" [minlen=1]
-	2558242922112 -> "2558246702544*" [minlen=1]
-	2558246702928 -> "2558246703120+" [minlen=1]
-	2558236262816 -> "2558246702928*" [minlen=1]
-	2558242923072 -> "2558246702928*" [minlen=1]
-	2558246703312 -> "2558246703504+" [minlen=1]
-	2558236262864 -> "2558246703312*" [minlen=1]
-	2558242924032 -> "2558246703312*" [minlen=1]
-	2558246703696 -> "2558246703888+" [minlen=1]
-	2558236262912 -> "2558246703696*" [minlen=1]
-	2558242924992 -> "2558246703696*" [minlen=1]
-	2558246704080 -> "2558246704272+" [minlen=1]
-	2558236262960 -> "2558246704080*" [minlen=1]
-	2558242918848 -> "2558246704080*" [minlen=1]
-	2558246704464 -> "2558246704656+" [minlen=1]
-	2558236263008 -> "2558246704464*" [minlen=1]
-	2558242925808 -> "2558246704464*" [minlen=1]
-	2558246704848 -> "2558246705040+" [minlen=1]
-	2558236263056 -> "2558246704848*" [minlen=1]
-	2558242926768 -> "2558246704848*" [minlen=1]
-	2558246705232 -> "2558246705424+" [minlen=1]
-	2558236263104 -> "2558246705232*" [minlen=1]
-	2558242927728 -> "2558246705232*" [minlen=1]
-	2558246708160 -> "2558246708208*" [minlen=1]
-	2558246708544 -> "2558246708592*" [minlen=1]
+	2182432467968 -> "2182432468160*" [minlen=1]
+	2182430171280 -> "2182432467968+" [minlen=1]
+	2182432467776 -> "2182432467968+" [minlen=1]
+	2182432467488 -> "2182432467776*" [minlen=1]
+	2182432466384 -> "2182432467488log" [minlen=1]
+	2182430178336 -> "2182432466384*" [minlen=1]
+	2182432458848 -> "2182430178336exp" [minlen=1]
+	2182432458464 -> "2182432458848+" [minlen=1]
+	2182432458080 -> "2182432458464+" [minlen=1]
+	2182432457696 -> "2182432458080+" [minlen=1]
+	2182432457312 -> "2182432457696+" [minlen=1]
+	2182432456928 -> "2182432457312+" [minlen=1]
+	2182430179104 -> "2182432456928+" [minlen=1]
+	2182430178720 -> "2182430179104+" [minlen=1]
+	2182411031456 -> "2182430178720+" [minlen=1]
+	2182430178528 -> "2182430178720+" [minlen=1]
+	2182411031504 -> "2182430178528*" [minlen=1]
+	2182430172384 -> "2182430178528*" [minlen=1]
+	2182430172288 -> "2182430172384tanh" [minlen=1]
+	2182430171904 -> "2182430172288+" [minlen=1]
+	2182411029440 -> "2182430171904+" [minlen=1]
+	2182430171712 -> "2182430171904+" [minlen=1]
+	2182411029488 -> "2182430171712*" [minlen=1]
+	2182430171232 -> "2182430171712*" [minlen=1]
+	2182430172096 -> "2182430172288+" [minlen=1]
+	2182411029968 -> "2182430172096*" [minlen=1]
+	2182430171184 -> "2182430172096*" [minlen=1]
+	2182430178912 -> "2182430179104+" [minlen=1]
+	2182411031552 -> "2182430178912*" [minlen=1]
+	2182430173344 -> "2182430178912*" [minlen=1]
+	2182430173248 -> "2182430173344tanh" [minlen=1]
+	2182430172864 -> "2182430173248+" [minlen=1]
+	2182411030064 -> "2182430172864+" [minlen=1]
+	2182430172672 -> "2182430172864+" [minlen=1]
+	2182411030112 -> "2182430172672*" [minlen=1]
+	2182430171232 -> "2182430172672*" [minlen=1]
+	2182430173056 -> "2182430173248+" [minlen=1]
+	2182411030160 -> "2182430173056*" [minlen=1]
+	2182430171184 -> "2182430173056*" [minlen=1]
+	2182430179296 -> "2182432456928+" [minlen=1]
+	2182411031600 -> "2182430179296*" [minlen=1]
+	2182430169936 -> "2182430179296*" [minlen=1]
+	2182430170128 -> "2182430169936tanh" [minlen=1]
+	2182430173824 -> "2182430170128+" [minlen=1]
+	2182411030256 -> "2182430173824+" [minlen=1]
+	2182430173632 -> "2182430173824+" [minlen=1]
+	2182411030304 -> "2182430173632*" [minlen=1]
+	2182430171232 -> "2182430173632*" [minlen=1]
+	2182430174016 -> "2182430170128+" [minlen=1]
+	2182411030352 -> "2182430174016*" [minlen=1]
+	2182430171184 -> "2182430174016*" [minlen=1]
+	2182432457120 -> "2182432457312+" [minlen=1]
+	2182411031648 -> "2182432457120*" [minlen=1]
+	2182430174400 -> "2182432457120*" [minlen=1]
+	2182430174304 -> "2182430174400tanh" [minlen=1]
+	2182430169120 -> "2182430174304+" [minlen=1]
+	2182411030448 -> "2182430169120+" [minlen=1]
+	2182430169744 -> "2182430169120+" [minlen=1]
+	2182411030496 -> "2182430169744*" [minlen=1]
+	2182430171232 -> "2182430169744*" [minlen=1]
+	2182430168928 -> "2182430174304+" [minlen=1]
+	2182411030544 -> "2182430168928*" [minlen=1]
+	2182430171184 -> "2182430168928*" [minlen=1]
+	2182432457504 -> "2182432457696+" [minlen=1]
+	2182411031696 -> "2182432457504*" [minlen=1]
+	2182430175360 -> "2182432457504*" [minlen=1]
+	2182430175264 -> "2182430175360tanh" [minlen=1]
+	2182430174880 -> "2182430175264+" [minlen=1]
+	2182411030640 -> "2182430174880+" [minlen=1]
+	2182430174688 -> "2182430174880+" [minlen=1]
+	2182411030688 -> "2182430174688*" [minlen=1]
+	2182430171232 -> "2182430174688*" [minlen=1]
+	2182430175072 -> "2182430175264+" [minlen=1]
+	2182411030736 -> "2182430175072*" [minlen=1]
+	2182430171184 -> "2182430175072*" [minlen=1]
+	2182432457888 -> "2182432458080+" [minlen=1]
+	2182411031744 -> "2182432457888*" [minlen=1]
+	2182430176320 -> "2182432457888*" [minlen=1]
+	2182430176224 -> "2182430176320tanh" [minlen=1]
+	2182430175840 -> "2182430176224+" [minlen=1]
+	2182411030832 -> "2182430175840+" [minlen=1]
+	2182430175648 -> "2182430175840+" [minlen=1]
+	2182411030880 -> "2182430175648*" [minlen=1]
+	2182430171232 -> "2182430175648*" [minlen=1]
+	2182430176032 -> "2182430176224+" [minlen=1]
+	2182411030928 -> "2182430176032*" [minlen=1]
+	2182430171184 -> "2182430176032*" [minlen=1]
+	2182432458272 -> "2182432458464+" [minlen=1]
+	2182411031792 -> "2182432458272*" [minlen=1]
+	2182430177280 -> "2182432458272*" [minlen=1]
+	2182430177184 -> "2182430177280tanh" [minlen=1]
+	2182430176800 -> "2182430177184+" [minlen=1]
+	2182411031024 -> "2182430176800+" [minlen=1]
+	2182430176608 -> "2182430176800+" [minlen=1]
+	2182411031072 -> "2182430176608*" [minlen=1]
+	2182430171232 -> "2182430176608*" [minlen=1]
+	2182430176992 -> "2182430177184+" [minlen=1]
+	2182411031120 -> "2182430176992*" [minlen=1]
+	2182430171184 -> "2182430176992*" [minlen=1]
+	2182432458656 -> "2182432458848+" [minlen=1]
+	2182411031840 -> "2182432458656*" [minlen=1]
+	2182430178240 -> "2182432458656*" [minlen=1]
+	2182430178144 -> "2182430178240tanh" [minlen=1]
+	2182430177760 -> "2182430178144+" [minlen=1]
+	2182411031216 -> "2182430177760+" [minlen=1]
+	2182430177568 -> "2182430177760+" [minlen=1]
+	2182411031264 -> "2182430177568*" [minlen=1]
+	2182430171232 -> "2182430177568*" [minlen=1]
+	2182430177952 -> "2182430178144+" [minlen=1]
+	2182411031312 -> "2182430177952*" [minlen=1]
+	2182430171184 -> "2182430177952*" [minlen=1]
+	2182432466144 -> "2182432466384*" [minlen=1]
+	2182432465952 -> "2182432466144**-1" [minlen=1]
+	2182432465760 -> "2182432465952+" [minlen=1]
+	2182432465568 -> "2182432465760+" [minlen=1]
+	2182430178336 -> "2182432465568+" [minlen=1]
+	2182432465520 -> "2182432465568+" [minlen=1]
+	2182432465136 -> "2182432465760+" [minlen=1]
+	2182432461920 -> "2182432465136exp" [minlen=1]
+	2182432461536 -> "2182432461920+" [minlen=1]
+	2182432461152 -> "2182432461536+" [minlen=1]
+	2182432460768 -> "2182432461152+" [minlen=1]
+	2182432460384 -> "2182432460768+" [minlen=1]
+	2182432460000 -> "2182432460384+" [minlen=1]
+	2182432459616 -> "2182432460000+" [minlen=1]
+	2182432459232 -> "2182432459616+" [minlen=1]
+	2182411031936 -> "2182432459232+" [minlen=1]
+	2182432459040 -> "2182432459232+" [minlen=1]
+	2182411031984 -> "2182432459040*" [minlen=1]
+	2182430172384 -> "2182432459040*" [minlen=1]
+	2182432459424 -> "2182432459616+" [minlen=1]
+	2182411032032 -> "2182432459424*" [minlen=1]
+	2182430173344 -> "2182432459424*" [minlen=1]
+	2182432459808 -> "2182432460000+" [minlen=1]
+	2182411032080 -> "2182432459808*" [minlen=1]
+	2182430169936 -> "2182432459808*" [minlen=1]
+	2182432460192 -> "2182432460384+" [minlen=1]
+	2182411032128 -> "2182432460192*" [minlen=1]
+	2182430174400 -> "2182432460192*" [minlen=1]
+	2182432460576 -> "2182432460768+" [minlen=1]
+	2182411032176 -> "2182432460576*" [minlen=1]
+	2182430175360 -> "2182432460576*" [minlen=1]
+	2182432460960 -> "2182432461152+" [minlen=1]
+	2182411032224 -> "2182432460960*" [minlen=1]
+	2182430176320 -> "2182432460960*" [minlen=1]
+	2182432461344 -> "2182432461536+" [minlen=1]
+	2182411032272 -> "2182432461344*" [minlen=1]
+	2182430177280 -> "2182432461344*" [minlen=1]
+	2182432461728 -> "2182432461920+" [minlen=1]
+	2182411032320 -> "2182432461728*" [minlen=1]
+	2182430178240 -> "2182432461728*" [minlen=1]
+	2182432465280 -> "2182432465952+" [minlen=1]
+	2182432464992 -> "2182432465280exp" [minlen=1]
+	2182432464608 -> "2182432464992+" [minlen=1]
+	2182432464224 -> "2182432464608+" [minlen=1]
+	2182432463840 -> "2182432464224+" [minlen=1]
+	2182432463456 -> "2182432463840+" [minlen=1]
+	2182432463072 -> "2182432463456+" [minlen=1]
+	2182432462688 -> "2182432463072+" [minlen=1]
+	2182432462304 -> "2182432462688+" [minlen=1]
+	2182411032416 -> "2182432462304+" [minlen=1]
+	2182432462112 -> "2182432462304+" [minlen=1]
+	2182411032464 -> "2182432462112*" [minlen=1]
+	2182430172384 -> "2182432462112*" [minlen=1]
+	2182432462496 -> "2182432462688+" [minlen=1]
+	2182411032512 -> "2182432462496*" [minlen=1]
+	2182430173344 -> "2182432462496*" [minlen=1]
+	2182432462880 -> "2182432463072+" [minlen=1]
+	2182411032560 -> "2182432462880*" [minlen=1]
+	2182430169936 -> "2182432462880*" [minlen=1]
+	2182432463264 -> "2182432463456+" [minlen=1]
+	2182411032608 -> "2182432463264*" [minlen=1]
+	2182430174400 -> "2182432463264*" [minlen=1]
+	2182432463648 -> "2182432463840+" [minlen=1]
+	2182411032656 -> "2182432463648*" [minlen=1]
+	2182430175360 -> "2182432463648*" [minlen=1]
+	2182432464032 -> "2182432464224+" [minlen=1]
+	2182411032704 -> "2182432464032*" [minlen=1]
+	2182430176320 -> "2182432464032*" [minlen=1]
+	2182432464416 -> "2182432464608+" [minlen=1]
+	2182411032752 -> "2182432464416*" [minlen=1]
+	2182430177280 -> "2182432464416*" [minlen=1]
+	2182432464800 -> "2182432464992+" [minlen=1]
+	2182411032800 -> "2182432464800*" [minlen=1]
+	2182430178240 -> "2182432464800*" [minlen=1]
+	2182432467728 -> "2182432467776*" [minlen=1]
+	2182432468112 -> "2182432468160*" [minlen=1]
 }

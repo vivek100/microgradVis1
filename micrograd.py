@@ -213,8 +213,10 @@ def cross_entropy(logits, target):
     probs = [x / denom for x in ex]
     # 4) log the probabilities at target
     logp = (probs[target]).log()
+    vis_color_selfandChild(logp, "grey91")
     # 5) the negative log likelihood loss (invert so we get a loss - lower is better)
     nll = -logp
+    vis_color_selfandChild(nll, "grey91")
 
     return nll
 
@@ -268,6 +270,7 @@ def loss_fun(model, split):
     for x, y in split:
         logits = model(x)
         loss = cross_entropy(logits, y)
+        vis_color(loss, "grey91") 
         total_loss = total_loss + loss
         vis_color(total_loss, "grey91") 
     mean_loss = total_loss * (1.0 / len(split))
@@ -297,12 +300,10 @@ for step in range(num_steps):
 x, y = (Value(0.0), Value(0.0)), 0
 loss = loss_fun(model, [(x, y)])
 loss.backward()
-vis_color(x, "lightblue") # color the inputs light blue in the visualization of inputs
-vis_color_entropy(loss, "grey91") # color the inputs light grey in the visualization of loss
-draw_dot(loss)
+
 try:
     vis_color(x, "lightblue") # color the inputs light blue in the visualization of inputs
-    vis_color_entropy(loss, "grey91") # color the inputs light grey in the visualization of loss
+    vis_color(loss, "grey91") # color the inputs light grey in the visualization of loss
     draw_dot(loss)
 
 except Exception as e:
